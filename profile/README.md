@@ -1,4 +1,4 @@
-# Sunyam Lexicon 2024 studies (C#/.NET/Azure
+# Sunyam Lexicon 2024 studies (C#/.NET/Azure)
 
 ## Introduction
 Welcome!
